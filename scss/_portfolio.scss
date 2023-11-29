@@ -21,8 +21,9 @@
   box-shadow: $color-sombra-cards;
 }
 
-h3 {
+.cardPortfolio h3 {
   color: $color-titulos;
+  font-weight: bold;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   text-align: center;
   font-size: 100%;
