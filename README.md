@@ -1,1 +1,1 @@
-# 3ra-Pre-Entrega
+# 3ra-Pre-Entrega del proyecto "Grafica ABC"
