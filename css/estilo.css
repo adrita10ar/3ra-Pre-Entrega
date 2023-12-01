@@ -35,7 +35,7 @@ header .menuNav a:hover {
   transition: transform 2s ease-in-out;
 }
 
-.carousel-inner h5 {
+.carousel-inner h4 {
   font-size: 170%;
   color: solid white;
 }
